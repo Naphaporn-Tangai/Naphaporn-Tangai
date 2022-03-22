@@ -1,5 +1,5 @@
 <h2>NAPHAPRON TANGJAI</h2>
-[github-header-image.png](https://postimg.cc/jwR7Wjv4)
+<a href='https://postimg.cc/jwR7Wjv4' target='_blank'><img src='https://i.postimg.cc/jwR7Wjv4/github-header-image.png' border='0' alt='github-header-image'/></a>
 <!--
 **Naphaporn-Tangai/Naphaporn-Tangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
