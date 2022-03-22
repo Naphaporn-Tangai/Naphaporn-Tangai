@@ -1,5 +1,5 @@
 <h2>NAPHAPRON TANGJAI</h2>
-[img]https://i.imgur.com/pz7Qo8S.png[/img]
+[Imgur](https://imgur.com/pz7Qo8S)
 <!--
 **Naphaporn-Tangai/Naphaporn-Tangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
