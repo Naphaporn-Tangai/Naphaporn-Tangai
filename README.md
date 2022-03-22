@@ -1,4 +1,4 @@
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RFMDrTvy/github-header-image.png' border='0' alt='github-header-image'/></a>
+<p align="center"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RFMDrTvy/github-header-image.png' border='0' alt='github-header-image'/></a></p>
 <!--
 **Naphaporn-Tangai/Naphaporn-Tangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
