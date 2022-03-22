@@ -1,4 +1,4 @@
-## NAPHAPRON TANGJAI
+<h2>NAPHAPRON TANGJAI</h2>
 <!--
 **Naphaporn-Tangai/Naphaporn-Tangai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
